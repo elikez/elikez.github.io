@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 27 Dec 2020 14:28:44 +0800</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用Hugo和github搭建个人博客</title>
-      <link>/post/%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <link>/pb/creathugoblog/</link>
       <pubDate>Sun, 27 Dec 2020 14:28:44 +0800</pubDate>
       
-      <guid>/post/%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>/pb/creathugoblog/</guid>
       <description>之前一直使用hexo来写博客，但是hexo作为一个静态网站框架，速度并不是很令人满意，而且配置的插件和各种包维护起来非常麻烦，当然这也不能不</description>
     </item>
     
