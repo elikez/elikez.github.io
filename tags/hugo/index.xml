@@ -6,14 +6,14 @@
     <description>Recent content in hugo on ElikeZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Dec 2020 22:29:19 +0800</lastBuildDate><atom:link href="https://elikez.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Dec 2020 14:28:44 +0800</lastBuildDate><atom:link href="https://elikez.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello</title>
-      <link>https://elikez.com/post/hello/</link>
-      <pubDate>Sat, 26 Dec 2020 22:29:19 +0800</pubDate>
+      <title>Creathugobloh</title>
+      <link>https://elikez.com/post/creathugobloh/</link>
+      <pubDate>Sun, 27 Dec 2020 14:28:44 +0800</pubDate>
       
-      <guid>https://elikez.com/post/hello/</guid>
-      <description></description>
+      <guid>https://elikez.com/post/creathugobloh/</guid>
+      <description>使用Hugo和github搭建个人博客 之前一直使用hexo来写博客，但是hexo作为一个静态网站框架，速度并不是很令人满意，而且配置的插件和各种包维护起来非常麻烦，当然这也不能不说是hexo是一个比较成熟的框架的证明，使用的人非常多，所以网上有很多东西可以参考。</description>
     </item>
     
   </channel>
