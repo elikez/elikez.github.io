@@ -3,15 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://elikez.com/</loc>
+    <lastmod>2020-12-26T22:29:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://elikez.com/post/hello/</loc>
+    <lastmod>2020-12-26T22:29:19+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://elikez.com/tags/hugo/</loc>
+    <lastmod>2020-12-26T22:29:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elikez.com/posts/</loc>
+    <lastmod>2020-12-26T22:29:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elikez.com/tags/</loc>
+    <lastmod>2020-12-26T22:29:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elikez.com/categories/</loc>
   </url>
   
 </urlset>
