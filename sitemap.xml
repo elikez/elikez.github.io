@@ -3,26 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://elikez.com/</loc>
-    <lastmod>2020-12-26T22:29:19+08:00</lastmod>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://elikez.com/posts/hello/</loc>
-    <lastmod>2020-12-26T22:29:19+08:00</lastmod>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://elikez.com/posts/</loc>
-    <lastmod>2020-12-26T22:29:19+08:00</lastmod>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>https://elikez.com/categories/</loc>
+    <loc>/photos/</loc>
   </url>
   
   <url>
-    <loc>https://elikez.com/tags/</loc>
+    <loc>/books/</loc>
+    <priority>0.1</priority>
   </url>
   
 </urlset>
