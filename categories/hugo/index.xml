@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on ElikeZ</title>
-    <link>https://elikez.com/categories/hugo/</link>
+    <link>/categories/hugo/</link>
     <description>Recent content in hugo on ElikeZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Dec 2020 14:28:44 +0800</lastBuildDate><atom:link href="https://elikez.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Dec 2020 14:28:44 +0800</lastBuildDate><atom:link href="/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用Hugo和github搭建个人博客</title>
-      <link>https://elikez.com/post/%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <link>/post/%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Sun, 27 Dec 2020 14:28:44 +0800</pubDate>
       
-      <guid>https://elikez.com/post/%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
-      <description>之前一直使用hexo来写博客，但是hexo作为一个静态网站框架，速度并不是很令人满意，而且配置的插件和各种包维护起来非常麻烦，当然这也不能不说是hexo是一个比较成熟的框架的证明，使用的人非常多，所以网上有很多东西可以参考。</description>
+      <guid>/post/%E4%BD%BF%E7%94%A8hugo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>之前一直使用hexo来写博客，但是hexo作为一个静态网站框架，速度并不是很令人满意，而且配置的插件和各种包维护起来非常麻烦，当然这也不能不</description>
     </item>
     
   </channel>
