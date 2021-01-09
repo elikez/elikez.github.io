@@ -16,5 +16,14 @@
       <description>之前一直使用hexo来写博客，但是hexo作为一个静态网站框架，速度并不是很令人满意，而且配置的插件和各种包维护起来非常麻烦，当然这也不能不</description>
     </item>
     
+    <item>
+      <title>My Album</title>
+      <link>/photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/photos/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
