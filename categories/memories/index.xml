@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on ElikeZ</title>
-    <link>/</link>
-    <description>Recent content in Home on ElikeZ</description>
+    <title>Memories on ElikeZ</title>
+    <link>/categories/memories/</link>
+    <description>Recent content in Memories on ElikeZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Feb 2021 22:07:33 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Feb 2021 22:07:33 +0800</lastBuildDate><atom:link href="/categories/memories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>吴孟达去世的这天</title>
       <link>/pb/dashurip/</link>
@@ -14,15 +14,6 @@
       
       <guid>/pb/dashurip/</guid>
       <description>今天正月十六，昨天是元宵佳节。这两天网上很多达叔生病的消息，但大多是说达叔一直身体不好怎么样，但大家都不知道这次竟会严重，入院不到一星期，达</description>
-    </item>
-    
-    <item>
-      <title>My Album</title>
-      <link>/photos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/photos/</guid>
-      <description></description>
     </item>
     
   </channel>
