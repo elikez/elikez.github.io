@@ -3,17 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2021-02-27T22:07:33+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2021-02-27T22:07:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/memories/</loc>
+    <loc>/tags/memories/</loc>
     <lastmod>2021-02-27T22:07:33+08:00</lastmod>
   </url>
   
@@ -23,16 +18,21 @@
   </url>
   
   <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-02-27T22:07:33+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/pb/dashurip/</loc>
     <lastmod>2021-02-27T22:07:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/photos/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/photos/</loc>
   </url>
   
 </urlset>
