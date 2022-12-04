@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ElikeZ</title>
+    <link>elikez.com/tags/</link>
+    <description>Recent content in Tags on ElikeZ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Mar 2021 22:39:19 +0800</lastBuildDate><atom:link href="elikez.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Memories</title>
+      <link>elikez.com/tags/memories/</link>
+      <pubDate>Sat, 06 Mar 2021 22:39:19 +0800</pubDate>
+      
+      <guid>elikez.com/tags/memories/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
