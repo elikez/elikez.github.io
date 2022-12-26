@@ -5,12 +5,15 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Categories | ElikeZ</title>
+<title>正式环境下样式表失效的问题 | ElikeZ</title>
 <meta name="keywords" content="">
-<meta name="description" content="">
-<meta name="author" content="">
-<link rel="canonical" href="https://elikez.com/categories/">
+<meta name="description" content="因为之前配置的主题自定义的地方比较多，且侵入性比较强，这次更换主题在本地重新建了个新仓库重新配置，发现本地环境下没有什么问题，但是当部署到G">
+<meta name="author" content="
+作者:&nbsp;ElikeZ">
+<link rel="canonical" href="https://elikez.com/posts/blog/hugo-cname-style/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.8de7cf437c1e5e6bc3dd17366195b282c127aa29a1557407cc23498ef88e6139.css" integrity="sha256-jefPQ3weXmvD3Rc2YZWygsEnqimhVXQHzCNJjviOYTk=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.acb54fd32bbc1982428b8850317e45d076b95012730a5936667e6bc21777692a.js" integrity="sha256-rLVP0yu8GYJCi4hQMX5F0Ha5UBJzClk2Zn5rwhd3aSo="
+        onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://elikez.com/img/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://elikez.com/img/favicon.ico">
 <link rel="icon" type="image/png" sizes="32x32" href="https://elikez.com/img/favicon.ico">
@@ -18,7 +21,6 @@
 <link rel="mask-icon" href="https://elikez.com/img/favicon.ico">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://elikez.com/categories/index.xml">
 <noscript>
     <style>
         #theme-toggle,
@@ -28,18 +30,82 @@
 
     </style>
 </noscript>
-<meta property="og:title" content="Categories" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://elikez.com/categories/" />
+<meta property="og:title" content="正式环境下样式表失效的问题" />
+<meta property="og:description" content="因为之前配置的主题自定义的地方比较多，且侵入性比较强，这次更换主题在本地重新建了个新仓库重新配置，发现本地环境下没有什么问题，但是当部署到G" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://elikez.com/posts/blog/hugo-cname-style/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-12-26T14:49:15+08:00" />
+<meta property="article:modified_time" content="2022-12-26T14:49:15+08:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Categories"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:title" content="正式环境下样式表失效的问题"/>
+<meta name="twitter:description" content="因为之前配置的主题自定义的地方比较多，且侵入性比较强，这次更换主题在本地重新建了个新仓库重新配置，发现本地环境下没有什么问题，但是当部署到G"/>
 
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+
+        {
+          "@type": "ListItem",
+          "position":  2 ,
+          "name": "📚文章",
+          "item": "https://elikez.com/posts/"
+        },
+
+        {
+          "@type": "ListItem",
+          "position":  3 ,
+          "name": "🧱 建站",
+          "item": "https://elikez.com/posts/blog/"
+        }, 
+    {
+      "@type": "ListItem",
+      "position":  4 ,
+      "name": "正式环境下样式表失效的问题",
+      "item": "https://elikez.com/posts/blog/hugo-cname-style/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "正式环境下样式表失效的问题",
+  "name": "正式环境下样式表失效的问题",
+  "description": "因为之前配置的主题自定义的地方比较多，且侵入性比较强，这次更换主题在本地重新建了个新仓库重新配置，发现本地环境下没有什么问题，但是当部署到G",
+  "keywords": [
+    ""
+  ],
+  "articleBody": "因为之前配置的主题自定义的地方比较多，且侵入性比较强，这次更换主题在本地重新建了个新仓库重新配置，发现本地环境下没有什么问题，但是当部署到Github上样式表全部失效，查看repo的配置发现之前因为将github上的文件全部删除，包括了CNAME文件，这样项目绑定的url就变成了空，只需要在项目设置里重新设置Custom domain，随后pull，就可以看到本地多了个CNAME文件，随后重新push一下，稍等几分钟即可看到效果。\n",
+  "wordCount" : "216",
+  "inLanguage": "en",
+  "datePublished": "2022-12-26T14:49:15+08:00",
+  "dateModified": "2022-12-26T14:49:15+08:00",
+  "author":[{
+    "@type": "Person",
+    "name": "ElikeZ"
+  }],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://elikez.com/posts/blog/hugo-cname-style/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "ElikeZ",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://elikez.com/img/favicon.ico"
+    }
+  }
+}
+</script>
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -49,6 +115,9 @@
 
 
 
+
+
+<script async src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 
 
 <header class="header">
@@ -111,22 +180,86 @@
         </ul>
     </nav>
 </header>
-<main class="main">
-<header class="page-header">
-    <h1>🔖Categories</h1>
-   <h1>Categories</h1>
-</header>
+<main class="main page">
+<article class="post-single">
+    <div id="single-content">
+        <header class="post-header">
+            <div class="breadcrumbs"><a href="https://elikez.com">主页</a>&nbsp;»&nbsp;<a href="https://elikez.com/posts/">📚文章</a>&nbsp;»&nbsp;<a href="https://elikez.com/posts/blog/">🧱 建站</a></div>
+            <h1 class="post-title">
+                正式环境下样式表失效的问题
+            </h1>
+            <div class="post-meta">创建:&nbsp;<span title='2022-12-26 14:49:15 +0800 CST'>2022-12-26</span>&nbsp;|&nbsp;更新:&nbsp;2022-12-26&nbsp;|&nbsp;
+作者:&nbsp;ElikeZ
 
 
 
 
-<ul class="terms-tags">
 
-</ul>
+</div>
+        </header> 
+        
+        
+        <div class="post-content"><p>因为之前配置的主题自定义的地方比较多，且侵入性比较强，这次更换主题在本地重新建了个新仓库重新配置，发现本地环境下没有什么问题，但是当部署到Github上样式表全部失效，查看repo的配置发现之前因为将github上的文件全部删除，包括了CNAME文件，这样项目绑定的url就变成了空，只需要在项目设置里重新设置Custom domain，随后pull，就可以看到本地多了个CNAME文件，随后重新push一下，稍等几分钟即可看到效果。</p>
+
+
+        </div>
+
+        <footer class="post-footer">
+            <ul class="post-tags">
+                <li><a href="https://elikez.com/tags/blog/">#blog</a></li>
+                <li><a href="https://elikez.com/tags/cname/">#CNAME</a></li>
+                <li><a href="https://elikez.com/tags/github/">#Github</a></li>
+            </ul>
+<nav class="paginav">
+  <a class="next" href="https://elikez.com/posts/life/life/">
+    <span class="title"><b>下一页 »</b></span>
+    <br>
+    <span><b>Life</b></span>
+  </a>
+</nav>
+
+        </footer>
+    </div>
 
 
 
+<div>
+    <div class="pagination__title">
+        <span class="pagination__title-h" style="font-size: 20px;"><b>💬评论</b></span>
+        <hr />
+    </div>
+
+    <div id="tcomment"></div>
+
+    <script src="https://cdn.staticfile.org/twikoo/1.6.8/twikoo.all.min.js">
+    </script>
+    
+
+    
+
+    <script>
+        twikoo.init({
+            envId: "elikez-4ginvtpi59a73eb0", 
+            el: "#tcomment",
+            lang: 'zh-CN',
+            region:  null ,
+            path: window.TWIKOO_MAGIC_PATH||window.location.pathname,
+            
+            
+            
+            
+            
+            
+            
+        });
+    </script>
+
+</div>
+</article>
 </main>
+
+
+<script async src="https://unpkg.com/mermaid@8.8.1/dist/mermaid.min.js"></script>
 
 
 
@@ -242,6 +375,60 @@
                 clipboardData.setData('text/html', htmlData);
                 clipboardData.setData('text/plain', textData);
             }
+        }
+    });
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerText = '📄复制';
+
+        function copyingDone() {
+            copybutton.innerText = '👌🏻已复制!';
+            setTimeout(() => {
+                copybutton.innerText = '📄复制';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                let text = codeblock.textContent +
+                    '\r\n————————————————\r\n' +
+                    '版权声明：本文为「' + "ElikeZ"
+                +'」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。' +
+                '\r\n原文链接：' + location.href;
+                navigator.clipboard.writeText(text);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) {
+            }
+            ;
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild === container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName === "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
         }
     });
 </script>

@@ -6,14 +6,14 @@
     <description>Recent content on ElikeZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 10 Dec 2022 00:18:23 +0800</lastBuildDate><atom:link href="https://elikez.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 14:49:15 +0800</lastBuildDate><atom:link href="https://elikez.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blog</title>
-      <link>https://elikez.com/posts/blog/blog/</link>
-      <pubDate>Sat, 10 Dec 2022 00:18:23 +0800</pubDate>
+      <title>正式环境下样式表失效的问题</title>
+      <link>https://elikez.com/posts/blog/hugo-cname-style/</link>
+      <pubDate>Mon, 26 Dec 2022 14:49:15 +0800</pubDate>
       
-      <guid>https://elikez.com/posts/blog/blog/</guid>
-      <description></description>
+      <guid>https://elikez.com/posts/blog/hugo-cname-style/</guid>
+      <description>因为之前配置的主题自定义的地方比较多，且侵入性比较强，这次更换主题在本地重新建了个新仓库重新配置，发现本地环境下没有什么问题，但是当部署到G</description>
     </item>
     
     <item>
