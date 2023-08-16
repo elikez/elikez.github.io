@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>📕 阅读 on ElikeZ</title>
-    <link>https://elikez.com/posts/read/</link>
-    <description>Recent content in 📕 阅读 on ElikeZ</description>
+    <title>第一性原理 on ElikeZ</title>
+    <link>https://elikez.com/tags/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</link>
+    <description>Recent content in 第一性原理 on ElikeZ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 16 Aug 2023 15:16:31 +0800</lastBuildDate><atom:link href="https://elikez.com/posts/read/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Aug 2023 15:16:31 +0800</lastBuildDate><atom:link href="https://elikez.com/tags/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一性原理（一）</title>
       <link>https://elikez.com/posts/read/first-principle-thinking-part1/</link>
