@@ -1,57 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://elikez.com/posts/study/</loc>
-    <lastmod>2024-04-03T14:33:00+08:00</lastmod>
-  </url><url>
-    <loc>https://elikez.com/posts/study/2.-%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E6%B4%BB%E5%8A%A8%E7%9A%84%E5%AE%9A%E5%90%91%E7%B1%BB%E5%9E%8B%E5%AE%9A%E5%90%91%E6%96%B9%E6%B3%95/</loc>
-    <lastmod>2024-04-03T14:33:00+08:00</lastmod>
-  </url><url>
-    <loc>https://elikez.com/</loc>
-    <lastmod>2024-04-03T14:33:00+08:00</lastmod>
-  </url><url>
-    <loc>https://elikez.com/posts/</loc>
-    <lastmod>2024-04-03T14:33:00+08:00</lastmod>
-  </url><url>
-    <loc>https://elikez.com/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2024-04-03T14:13:50+08:00</lastmod>
-  </url><url>
-    <loc>https://elikez.com/tags/</loc>
-    <lastmod>2024-04-03T14:13:50+08:00</lastmod>
-  </url><url>
-    <loc>https://elikez.com/posts/study/1.-%E4%BA%86%E8%A7%A3%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E7%B1%BB%E5%9E%8B/</loc>
-    <lastmod>2024-04-03T14:13:50+08:00</lastmod>
-  </url><url>
-    <loc>https://elikez.com/categories/</loc>
-    <lastmod>2024-04-03T14:13:50+08:00</lastmod>
-  </url><url>
-    <loc>https://elikez.com/tags/%E4%BA%9A%E9%A9%AC%E9%80%8A/</loc>
-    <lastmod>2024-04-03T14:13:50+08:00</lastmod>
-  </url><url>
-    <loc>https://elikez.com/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A/</loc>
-    <lastmod>2024-04-03T14:13:50+08:00</lastmod>
-  </url><url>
-    <loc>https://elikez.com/tags/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</loc>
-    <lastmod>2023-08-16T15:16:31+08:00</lastmod>
-  </url><url>
-    <loc>https://elikez.com/posts/study/first-principle-thinking-part1/</loc>
-    <lastmod>2023-08-16T15:16:31+08:00</lastmod>
-  </url><url>
-    <loc>https://elikez.com/posts/records/</loc>
-  </url><url>
-    <loc>https://elikez.com/archives/</loc>
-  </url><url>
-    <loc>https://elikez.com/posts/essays/</loc>
-  </url><url>
-    <loc>https://elikez.com/search/</loc>
-  </url><url>
-    <loc>https://elikez.com/series/</loc>
-  </url><url>
-    <loc>https://elikez.com/photos/</loc>
-  </url><url>
-    <loc>https://elikez.com/posts/life/</loc>
-  </url><url>
-    <loc>https://elikez.com/posts/blog/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>//localhost:1313/en/sitemap.xml</loc>
+    
+      <lastmod>2024-04-03T14:33:00+08:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
