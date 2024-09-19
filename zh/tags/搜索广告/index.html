@@ -1,3 +1,7 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="zh" dir="auto">
 
@@ -10,7 +14,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <link rel="canonical" href="/zh/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.f4ce9f151aad7bf6bbfbc98ea7f8c1e2d0b3d5e77d59f7b2bfe0154585fabcfe.css" integrity="sha256-9M6fFRqte/a7&#43;8mOp/jB4tCz1ed9Wfeyv&#43;AVRYX6vP4=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.1edb63a1944d89983e1654f478e3b38c6f7af01e4e6853dfb1a332610957677d.css" integrity="sha256-HttjoZRNiZg&#43;FlT0eOOzjG968B5OaFPfsaMyYQlXZ30=" rel="preload stylesheet" as="style">
 <link rel="icon" href="/img/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon.ico">
 <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon.ico">
@@ -116,8 +120,8 @@
   <footer class="entry-footer"><span title='2024-04-03 14:13:50 +0800 CST'>2024-04-03</span>&nbsp;·&nbsp;ElikeZ</footer>
   <a class="entry-link" aria-label="post link to 1.了解搜索广告类型" href="/zh/posts/1.%E4%BA%86%E8%A7%A3%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E7%B1%BB%E5%9E%8B/"></a>
 </article>
-    </main>
-    
+</main>
+
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <span class="topInner">
         <svg class="topSvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
@@ -191,6 +195,27 @@
         }
     })
 
+</script>
+
+<script>
+    document.body.addEventListener('copy', function (e) {
+        if (window.getSelection().toString() && window.getSelection().toString().length > 50) {
+            let clipboardData = e.clipboardData || window.clipboardData;
+            if (clipboardData) {
+                e.preventDefault();
+                let htmlData = window.getSelection().toString() +
+                    '\r\n\n————————————————\r\n' +
+                    '版权声明：本文为「'+"ElikeZ"+'」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。' +
+                '\r\n原文链接：' + location.href;
+                let textData = window.getSelection().toString() +
+                    '\r\n\n————————————————\r\n' +
+                    '版权声明：本文为「'+"ElikeZ"+'」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。' +
+                '\r\n原文链接：' + location.href;
+                clipboardData.setData('text/html', htmlData);
+                clipboardData.setData('text/plain', textData);
+            }
+        }
+    });
 </script>
 </body>
 
