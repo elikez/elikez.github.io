@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🗂️Archives on ElikeZ</title>
-    <link>http://localhost:1313/zh/posts/</link>
+    <link>/zh/posts/</link>
     <description>Recent content in 🗂️Archives on ElikeZ</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 03 Apr 2024 14:33:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/zh/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2.搜索广告活动的定向类型定向方法</title>
-      <link>http://localhost:1313/zh/posts/2.-%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E6%B4%BB%E5%8A%A8%E7%9A%84%E5%AE%9A%E5%90%91%E7%B1%BB%E5%9E%8B%E5%AE%9A%E5%90%91%E6%96%B9%E6%B3%95/</link>
+      <link>/zh/posts/2.-%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E6%B4%BB%E5%8A%A8%E7%9A%84%E5%AE%9A%E5%90%91%E7%B1%BB%E5%9E%8B%E5%AE%9A%E5%90%91%E6%96%B9%E6%B3%95/</link>
       <pubDate>Wed, 03 Apr 2024 14:33:00 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/2.-%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E6%B4%BB%E5%8A%A8%E7%9A%84%E5%AE%9A%E5%90%91%E7%B1%BB%E5%9E%8B%E5%AE%9A%E5%90%91%E6%96%B9%E6%B3%95/</guid>
+      <guid>/zh/posts/2.-%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E6%B4%BB%E5%8A%A8%E7%9A%84%E5%AE%9A%E5%90%91%E7%B1%BB%E5%9E%8B%E5%AE%9A%E5%90%91%E6%96%B9%E6%B3%95/</guid>
       <description>定向方法 搜索广告提供多种人群定向方法，可以帮助我们在合适的时间吸引相关的顾客。 品牌推广广告和商品推广广告都可以按关键词和商品或商品品类进行定</description>
     </item>
     <item>
       <title>1.了解搜索广告类型</title>
-      <link>http://localhost:1313/zh/posts/1.%E4%BA%86%E8%A7%A3%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E7%B1%BB%E5%9E%8B/</link>
+      <link>/zh/posts/1.%E4%BA%86%E8%A7%A3%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E7%B1%BB%E5%9E%8B/</link>
       <pubDate>Wed, 03 Apr 2024 14:13:50 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/1.%E4%BA%86%E8%A7%A3%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E7%B1%BB%E5%9E%8B/</guid>
+      <guid>/zh/posts/1.%E4%BA%86%E8%A7%A3%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E7%B1%BB%E5%9E%8B/</guid>
       <description>搜索广告简介 搜索广告如何影响具有高购买意向的顾客 消费者决策过程不是线性的。该过程的各个阶段之间都是相互关联的，每个过程中都可能有所不同。搜索</description>
     </item>
     <item>
       <title>第一性原理（一）</title>
-      <link>http://localhost:1313/zh/posts/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</link>
+      <link>/zh/posts/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</link>
       <pubDate>Wed, 16 Aug 2023 15:16:31 +0800</pubDate>
-      <guid>http://localhost:1313/zh/posts/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</guid>
+      <guid>/zh/posts/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</guid>
       <description>第一性原理是什么？ “第一性原理”是哲学中的一种基本概念，它是指对于任何研究对象，其真正的、本质的、首要的原理，也是一切其他原理依赖的原理。它</description>
     </item>
   </channel>
