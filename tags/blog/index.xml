@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>blog on ElikeZ</title>
+    <link>https://elikez.com/tags/blog/</link>
+    <description>Recent content in blog on ElikeZ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 26 Dec 2022 14:49:15 +0800</lastBuildDate><atom:link href="https://elikez.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>正式环境下样式表失效的问题</title>
+      <link>https://elikez.com/posts/blog/hugo-cname-style/</link>
+      <pubDate>Mon, 26 Dec 2022 14:49:15 +0800</pubDate>
+      
+      <guid>https://elikez.com/posts/blog/hugo-cname-style/</guid>
+      <description>因为之前配置的主题自定义的地方比较多，且侵入性比较强，这次更换主题在本地重新建了个新仓库重新配置，发现本地环境下没有什么问题，但是当部署到G</description>
+    </item>
+    
+  </channel>
+</rss>

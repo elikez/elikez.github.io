@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>📕 阅读 on ElikeZ</title>
+    <link>https://elikez.com/posts/read/</link>
+    <description>Recent content in 📕 阅读 on ElikeZ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 16 Aug 2023 15:16:31 +0800</lastBuildDate><atom:link href="https://elikez.com/posts/read/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一性原理（一）</title>
+      <link>https://elikez.com/posts/read/first-principle-thinking-part1/</link>
+      <pubDate>Wed, 16 Aug 2023 15:16:31 +0800</pubDate>
+      
+      <guid>https://elikez.com/posts/read/first-principle-thinking-part1/</guid>
+      <description>第一性原理是什么？ “第一性原理”是哲学中的一种基本概念，它是指对于任何研究对象，其真正的、本质的、首要的原理，也是一切其他原理依赖的原理。它</description>
+    </item>
+    
+  </channel>
+</rss>
