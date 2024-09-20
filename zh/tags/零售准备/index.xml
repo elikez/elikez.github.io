@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>零售准备 on ElikeZ</title>
-    <link>www.elikez.com/zh/tags/%E9%9B%B6%E5%94%AE%E5%87%86%E5%A4%87/</link>
+    <link>/zh/tags/%E9%9B%B6%E5%94%AE%E5%87%86%E5%A4%87/</link>
     <description>Recent content in 零售准备 on ElikeZ</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 19 Sep 2024 16:27:08 +0800</lastBuildDate>
-    <atom:link href="www.elikez.com/zh/tags/%E9%9B%B6%E5%94%AE%E5%87%86%E5%A4%87/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/zh/tags/%E9%9B%B6%E5%94%AE%E5%87%86%E5%A4%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>6.针对零售准备进行优化</title>
-      <link>www.elikez.com/zh/posts/6.amz-retail-prepare/</link>
+      <link>/zh/posts/6.amz-retail-prepare/</link>
       <pubDate>Thu, 19 Sep 2024 16:27:08 +0800</pubDate>
-      <guid>www.elikez.com/zh/posts/6.amz-retail-prepare/</guid>
+      <guid>/zh/posts/6.amz-retail-prepare/</guid>
       <description>零售准备工作 零售准备工作与可增加流量的广告活动相关 当您销售的商品_做好零售准备_时，这意味着商品详情页包含顾客够买所需必要信息，包括：买家评</description>
     </item>
   </channel>
