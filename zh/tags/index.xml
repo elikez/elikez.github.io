@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🔖 标签 on ElikeZ</title>
-    <link>//localhost:1313/zh/tags/</link>
+    <link>www.elikez.com/zh/tags/</link>
     <description>Recent content in 🔖 标签 on ElikeZ</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 19 Sep 2024 16:27:08 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="www.elikez.com/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amazon</title>
-      <link>//localhost:1313/zh/tags/amazon/</link>
+      <link>www.elikez.com/zh/tags/amazon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/tags/amazon/</guid>
+      <guid>www.elikez.com/zh/tags/amazon/</guid>
       <description></description>
     </item>
     <item>
       <title>零售准备</title>
-      <link>//localhost:1313/zh/tags/%E9%9B%B6%E5%94%AE%E5%87%86%E5%A4%87/</link>
+      <link>www.elikez.com/zh/tags/%E9%9B%B6%E5%94%AE%E5%87%86%E5%A4%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/tags/%E9%9B%B6%E5%94%AE%E5%87%86%E5%A4%87/</guid>
+      <guid>www.elikez.com/zh/tags/%E9%9B%B6%E5%94%AE%E5%87%86%E5%A4%87/</guid>
       <description></description>
     </item>
     <item>
       <title>搜索广告</title>
-      <link>//localhost:1313/zh/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A/</link>
+      <link>www.elikez.com/zh/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A/</guid>
+      <guid>www.elikez.com/zh/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A/</guid>
       <description></description>
     </item>
     <item>
       <title>搜索广告活动</title>
-      <link>//localhost:1313/zh/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E6%B4%BB%E5%8A%A8/</link>
+      <link>www.elikez.com/zh/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E6%B4%BB%E5%8A%A8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E6%B4%BB%E5%8A%A8/</guid>
+      <guid>www.elikez.com/zh/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A%E6%B4%BB%E5%8A%A8/</guid>
       <description></description>
     </item>
     <item>
       <title>第一性原理</title>
-      <link>//localhost:1313/zh/tags/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</link>
+      <link>www.elikez.com/zh/tags/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/zh/tags/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</guid>
+      <guid>www.elikez.com/zh/tags/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</guid>
       <description></description>
     </item>
   </channel>

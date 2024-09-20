@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🗂️Archives on ElikeZ</title>
-    <link>//localhost:1313/zh/posts/</link>
+    <link>www.elikez.com/zh/posts/</link>
     <description>Recent content in 🗂️Archives on ElikeZ</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 19 Sep 2024 16:27:08 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="www.elikez.com/zh/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>6.针对零售准备进行优化</title>
-      <link>//localhost:1313/zh/posts/6.amz-retail-prepare/</link>
+      <link>www.elikez.com/zh/posts/6.amz-retail-prepare/</link>
       <pubDate>Thu, 19 Sep 2024 16:27:08 +0800</pubDate>
-      <guid>//localhost:1313/zh/posts/6.amz-retail-prepare/</guid>
+      <guid>www.elikez.com/zh/posts/6.amz-retail-prepare/</guid>
       <description>零售准备工作 零售准备工作与可增加流量的广告活动相关 当您销售的商品_做好零售准备_时，这意味着商品详情页包含顾客够买所需必要信息，包括：买家评</description>
     </item>
     <item>
       <title>5.优化搜索广告活动</title>
-      <link>//localhost:1313/zh/posts/5.optimize-ad-campaigns/</link>
+      <link>www.elikez.com/zh/posts/5.optimize-ad-campaigns/</link>
       <pubDate>Thu, 19 Sep 2024 16:24:15 +0800</pubDate>
-      <guid>//localhost:1313/zh/posts/5.optimize-ad-campaigns/</guid>
+      <guid>www.elikez.com/zh/posts/5.optimize-ad-campaigns/</guid>
       <description>指标 有关指标的信息 亚马逊可以提供各种用于衡量广告活动效果的指标。有些指标是标准的数字广告指标，例如展示次数和点击次数；有些指标则是电子商务营</description>
     </item>
     <item>
       <title>4.解读搜索广告效果</title>
-      <link>//localhost:1313/zh/posts/4.read-ad-reports/</link>
+      <link>www.elikez.com/zh/posts/4.read-ad-reports/</link>
       <pubDate>Thu, 19 Sep 2024 16:19:10 +0800</pubDate>
-      <guid>//localhost:1313/zh/posts/4.read-ad-reports/</guid>
+      <guid>www.elikez.com/zh/posts/4.read-ad-reports/</guid>
       <description>指标 有关指标的信息 亚马逊可以提供各种用于衡量广告活动效果的指标。有些指标是标准的数字广告指标，例如展示次数和点击次数；有些指标则是电子商务营</description>
     </item>
     <item>
       <title>3.设置搜索广告活动</title>
-      <link>//localhost:1313/zh/posts/3.set-amz-ads/</link>
+      <link>www.elikez.com/zh/posts/3.set-amz-ads/</link>
       <pubDate>Thu, 19 Sep 2024 16:15:53 +0800</pubDate>
-      <guid>//localhost:1313/zh/posts/3.set-amz-ads/</guid>
+      <guid>www.elikez.com/zh/posts/3.set-amz-ads/</guid>
       <description>创建广告活动简介 当您开始制定广告活动策略时，您应该明确您的目标是什么，以及如何衡量成功 广告活动效率(广告活动目标一) 广告活动效率将根据 ACOS 或 ROAS</description>
     </item>
     <item>
       <title>2.搜索广告活动的定向类型</title>
-      <link>//localhost:1313/zh/posts/2.amz-target-typess/</link>
+      <link>www.elikez.com/zh/posts/2.amz-target-typess/</link>
       <pubDate>Thu, 19 Sep 2024 16:09:46 +0800</pubDate>
-      <guid>//localhost:1313/zh/posts/2.amz-target-typess/</guid>
+      <guid>www.elikez.com/zh/posts/2.amz-target-typess/</guid>
       <description>定向方法 搜索广告提供多种人群定向方法，可以帮助我们在合适的时间吸引相关的顾客。 品牌推广广告和商品推广广告都可以按关键词和商品或商品品类进行定</description>
     </item>
     <item>
       <title>1.了解搜索广告类型</title>
-      <link>//localhost:1313/zh/posts/1.amz-ad-types/</link>
+      <link>www.elikez.com/zh/posts/1.amz-ad-types/</link>
       <pubDate>Wed, 03 Apr 2024 14:13:50 +0800</pubDate>
-      <guid>//localhost:1313/zh/posts/1.amz-ad-types/</guid>
+      <guid>www.elikez.com/zh/posts/1.amz-ad-types/</guid>
       <description>搜索广告简介 搜索广告如何影响具有高购买意向的顾客 消费者决策过程不是线性的。该过程的各个阶段之间都是相互关联的，每个过程中都可能有所不同。搜索</description>
     </item>
     <item>
       <title>第一性原理（一）</title>
-      <link>//localhost:1313/zh/posts/first-principle/</link>
+      <link>www.elikez.com/zh/posts/first-principle/</link>
       <pubDate>Wed, 16 Aug 2023 15:16:31 +0800</pubDate>
-      <guid>//localhost:1313/zh/posts/first-principle/</guid>
+      <guid>www.elikez.com/zh/posts/first-principle/</guid>
       <description>第一性原理是什么？ “第一性原理”是哲学中的一种基本概念，它是指对于任何研究对象，其真正的、本质的、首要的原理，也是一切其他原理依赖的原理。它</description>
     </item>
   </channel>
