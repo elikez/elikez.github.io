@@ -109,6 +109,31 @@
     </ul>
 
   </footer>
+<div>
+    <div class="pagination__title">
+        <span class="pagination__title-h" style="font-size: 18px;"><b>💬评论</b></span>
+        <hr />
+    </div>
+
+    <div id="tcomment"></div>
+
+   <script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.39/dist/twikoo.all.min.js"></script>
+ 
+
+    
+
+    <script>
+        twikoo.init({
+            envId: "https://main--elikez.netlify.app/.netlify/functions/twikoo", 
+            el: "#tcomment",
+            lang: 'zh-CN',
+            region:  null ,
+            path: window.TWIKOO_MAGIC_PATH||window.location.pathname,
+    
+        });
+    </script>
+
+</div>
 </article>
 </main>
 
