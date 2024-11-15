@@ -3,8 +3,13 @@
 <html lang="zh" dir="auto">
 <body class="" id="top">
 
-<head><meta charset="utf-8">
-    <header class="header">
+<script>
+if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    }
+
+</script>
+
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
@@ -28,13 +33,17 @@
     </style>
 </noscript>
 
+
+<header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="" accesskey="h" title="ElikeZ (Alt + H)">
+            <a href="/zh" accesskey="h" title="ElikeZ (Alt + H)">
                 <img src="/img/fish.gif" alt="" aria-label="logo"
                     height="35">ElikeZ</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+
+
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                         stroke-linejoin="round">
@@ -53,7 +62,10 @@
                         <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
                         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                     </svg>
+
+
                 </button>
+
             </div>
         </div>
         <ul id="menu">
@@ -73,15 +85,12 @@
                 </a>
             </li>
         </ul>
+
+
     </nav>
     
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    }
 
-</script>
-</head>
+
 </header>
   
 
