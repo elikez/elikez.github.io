@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>电商 on ElikeZ</title>
-    <link>//localhost:1313/categories/%E7%94%B5%E5%95%86/</link>
+    <link>/categories/%E7%94%B5%E5%95%86/</link>
     <description>Recent content in 电商 on ElikeZ</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 30 Oct 2024 11:01:23 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/%E7%94%B5%E5%95%86/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/%E7%94%B5%E5%95%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>选品方法</title>
-      <link>//localhost:1313/posts/selection-methods/</link>
+      <link>/posts/selection-methods/</link>
       <pubDate>Wed, 30 Oct 2024 11:01:23 +0800</pubDate>
-      <guid>//localhost:1313/posts/selection-methods/</guid>
+      <guid>/posts/selection-methods/</guid>
       <description>指导思想 为什么要有选品 归根是为了追求更多利润（销售额-成本）。为了产生更多的利润就需要我们卖出更多产品、产生更高的销售数量和更高的客单价。 店</description>
     </item>
   </channel>

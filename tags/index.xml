@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🔖 标签 on ElikeZ</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in 🔖 标签 on ElikeZ</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 17 Dec 2025 13:44:59 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>生活</title>
-      <link>//localhost:1313/tags/%E7%94%9F%E6%B4%BB/</link>
+      <link>/tags/%E7%94%9F%E6%B4%BB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <guid>/tags/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
     <item>
       <title>选品</title>
-      <link>//localhost:1313/tags/%E9%80%89%E5%93%81/</link>
+      <link>/tags/%E9%80%89%E5%93%81/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/%E9%80%89%E5%93%81/</guid>
+      <guid>/tags/%E9%80%89%E5%93%81/</guid>
       <description></description>
     </item>
     <item>
       <title>Amazon</title>
-      <link>//localhost:1313/tags/amazon/</link>
+      <link>/tags/amazon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/amazon/</guid>
+      <guid>/tags/amazon/</guid>
       <description></description>
     </item>
     <item>
       <title>零售准备</title>
-      <link>//localhost:1313/tags/%E9%9B%B6%E5%94%AE%E5%87%86%E5%A4%87/</link>
+      <link>/tags/%E9%9B%B6%E5%94%AE%E5%87%86%E5%A4%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/%E9%9B%B6%E5%94%AE%E5%87%86%E5%A4%87/</guid>
+      <guid>/tags/%E9%9B%B6%E5%94%AE%E5%87%86%E5%A4%87/</guid>
       <description></description>
     </item>
     <item>
       <title>搜索广告</title>
-      <link>//localhost:1313/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A/</link>
+      <link>/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A/</guid>
+      <guid>/tags/%E6%90%9C%E7%B4%A2%E5%B9%BF%E5%91%8A/</guid>
       <description></description>
     </item>
     <item>
       <title>第一性原理</title>
-      <link>//localhost:1313/tags/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</link>
+      <link>/tags/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</guid>
+      <guid>/tags/%E7%AC%AC%E4%B8%80%E6%80%A7%E5%8E%9F%E7%90%86/</guid>
       <description></description>
     </item>
   </channel>
