@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>生活 on ElikeZ</title>
+    <link>//localhost:1313/tags/%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 生活 on ElikeZ</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 17 Dec 2025 13:44:59 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>遥远的梦</title>
+      <link>//localhost:1313/posts/%E9%81%A5%E8%BF%9C%E7%9A%84%E6%A2%A6/</link>
+      <pubDate>Wed, 17 Dec 2025 13:44:59 +0800</pubDate>
+      <guid>//localhost:1313/posts/%E9%81%A5%E8%BF%9C%E7%9A%84%E6%A2%A6/</guid>
+      <description>十月廿六是爷爷的生日，之前奶奶在时我会在这天给他们打电话打视频，奶奶不在了，爷爷后来生病无法讲话，给照顾爷爷的家人打视频，今年爷爷也不在了。</description>
+    </item>
+  </channel>
+</rss>
