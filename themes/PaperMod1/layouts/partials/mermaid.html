@@ -1,0 +1,22 @@
+
+<!-- mermaid.html -->
+
+{{ if .Params.mermaid }}  <!-- 判断是否开启 -->
+<script async src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script> 
+<script>  
+    // Replace mermaid pre.code to div  
+    Array.from(document.getElementsByClassName("language-mermaid")).forEach(  
+        (el) => {  
+            el.parentElement.outerHTML = `<div class="mermaid">${el.innerHTML}</div>`;  
+        }  
+    );  
+</script>  
+<style>  
+    /* Set svg to center */  
+    .mermaid svg {  
+        display: block;  
+        margin: auto; 
+        align-content: center; 
+    }  
+</style>  
+{{ end }}
