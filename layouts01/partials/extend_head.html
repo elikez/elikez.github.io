@@ -1,9 +1,33 @@
 {{- /* Head custom content area start */ -}}
 {{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
 {{- /*     Can be overwritten by partial with the same name in the global layouts. */ -}}
+
+
+
 {{- /* Head custom content area end */ -}}
 
 
+<!-- 安装和配置Lightbox -->
+<!-- layouts/partials/extend_head.html -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+<script>
+  // 初始化 Lightbox
+  document.addEventListener('DOMContentLoaded', function() {
+    if (typeof lightbox !== 'undefined') {
+      lightbox.option({
+        'resizeDuration': 200,
+        'wrapAround': true,
+        'alwaysShowNavOnTouchDevices': true,
+        'disableScrolling': true,
+        'albumLabel': '图片 %1 / %2',
+        // 添加双击支持
+        'disableDoubleTapZoom': true
+      });
+    }
+  });
+</script>
 <!-- 百度分析 -->
 <!--
 <script>

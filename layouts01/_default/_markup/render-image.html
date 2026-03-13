@@ -1,1 +1,20 @@
-<img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} />
+<!-- <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} /> -->
+
+<!-- layouts/_default/_markup/render-image.html -->
+<!-- 这个文件控制 Markdown 图片的渲染方式 -->
+
+{{/* 获取图片链接和描述 */}}
+{{ $src := .Destination | safeURL }}
+{{ $alt := .Text }}
+{{ $title := .Title }}
+
+{{/* 判断是否是相对路径图片 */}}
+{{ if strings.HasPrefix $src "/" }}
+  {{/* 对于本地图片，使用绝对路径 */}}
+  {{ $src = print site.BaseURL (strings.TrimPrefix "/" $src) }}
+{{ end }}
+
+{{/* 渲染图片链接，Lightbox 需要 a 标签 */}}
+<a href="{{ $src }}" data-lightbox="gallery" data-title="{{ $alt }}">
+  <img src="{{ $src }}" alt="{{ $alt }}" title="{{ $title }}" loading="lazy" />
+</a>

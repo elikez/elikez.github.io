@@ -1,1 +1,15 @@
 <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} />
+
+<!-- layouts/_default/_markup/render-image.html -->
+{{ $src := .Destination | safeURL }}
+{{ $alt := .Text }}
+
+<a href="{{ $src }}" 
+   data-lightbox="gallery" 
+   data-title="{{ $alt }}"
+   class="lightbox-link">
+  <img src="{{ $src }}" 
+       alt="{{ $alt }}"
+       loading="lazy"
+       style="cursor: zoom-in;">
+</a>
