@@ -2,20 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2025-12-17T13:44:59+08:00</lastmod>
-  </url><url>
     <loc>/</loc>
-    <lastmod>2025-12-17T13:44:59+08:00</lastmod>
+    <lastmod>2026-06-04T13:56:02+08:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2025-12-17T13:44:59+08:00</lastmod>
+    <lastmod>2026-06-04T13:56:02+08:00</lastmod>
   </url><url>
-    <loc>/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2025-12-17T13:44:59+08:00</lastmod>
+    <loc>/posts/green-flash/</loc>
+    <lastmod>2026-06-04T13:56:02+08:00</lastmod>
   </url><url>
-    <loc>/posts/%E9%81%A5%E8%BF%9C%E7%9A%84%E6%A2%A6/</loc>
-    <lastmod>2025-12-17T13:44:59+08:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2024-10-30T11:01:23+08:00</lastmod>
   </url><url>
     <loc>/categories/amazon/</loc>
     <lastmod>2024-10-30T11:01:23+08:00</lastmod>
